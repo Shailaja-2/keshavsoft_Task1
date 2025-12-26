@@ -1,5 +1,5 @@
 🏗️ How I Built This Project (Step-by-Step)
-
+ 
 I started by setting up the basic folder structure and linking the Bootstrap 5 CDN so I wouldn't have to download heavy files.
 First, I focused on the Home Page. I wanted a big "Hero" section that immediately tells users what the company does. I used a custom CSS gradient because I felt the standard Bootstrap colors were a bit too basic.
 After that, I worked on the About Page. I spent time looking at the Bootstrap "Features" examples to see how they used icons and columns. I decided to use "Team Cards" with rounded images to make the agency feel more friendly and professional.
